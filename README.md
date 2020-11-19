@@ -23,7 +23,7 @@ The purpose of this project is to create a Linea Regression Model, which predict
 
 ## Project Description
 The task was to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
-Further, I would explore the characteristics of the houses using some business intelligence tool. One of those parameters include understanding which factors are responsible for higher property value - $650K and above. The data was originally published [here] (https://www.kaggle.com/harlfoxem/housesalesprediction). 
+Further, I would explore the characteristics of the houses using some business intelligence tool. One of those parameters include understanding which factors are responsible for higher property value - $650K and above. The data was originally published [here](https://www.kaggle.com/harlfoxem/housesalesprediction). 
 The data visualization was done with Tableau. 
 
 
