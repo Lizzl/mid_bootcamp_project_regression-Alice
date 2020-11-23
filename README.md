@@ -1,4 +1,4 @@
-# Mid Bootcamp Project Linear Regression Modell
+# Mid Bootcamp Project Linear Regression Model
 
 This project is a part of the [Data Analytics Bootcamp](https://www.ironhack.com/en/data-analytics/berlin#fulltime) at Ironhack. 
 
